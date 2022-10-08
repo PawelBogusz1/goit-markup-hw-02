@@ -1,0 +1,158 @@
+
+body{
+    font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+}
+
+.link:active{
+    color:grey;  
+}
+    button{
+        border: 0px;
+    }
+    
+.solutions {
+    color:white;
+    background-color: #2F303A;
+    width: 1600px;
+    height: 600px;
+ 
+}
+
+footer{
+    background-color: #2F303A;
+    color: #ffff;
+}
+    .link3{
+        color:#212121;
+        font-family: roboto;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 14px
+    }
+    .link2{
+        color:#2196F3;
+          font-family: roboto;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 14px
+    }
+.link6{
+    color:#757575;
+       font-family: roboto;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 14px
+}
+.link8{
+    color: #ffff;
+     font-family: roboto;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 14px
+        
+}
+
+address{
+     font-family: roboto;
+        font-size: 14px;
+        line-height: 24px;
+}
+.head3{
+  font-family: roboto;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 16px;
+}
+.head32{
+  font-family: roboto;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 36px;
+}
+.p3{
+   font-family: roboto;
+        font-size: 16px;
+        line-height: 30px; 
+}
+        .head21{
+font-family: roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 42px;
+        }
+}
+.p1{
+    font-family: roboto;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 24px;
+}
+.p2{
+       font-family: roboto;
+        font-size: 16px;
+        line-height: 19px; 
+}
+
+.solutions1{
+     font-family: roboto;
+        font-size: 44px;
+        font-weight: 900;
+         line-height: 60px; 
+}
+.solutions2{
+     font-family: roboto;
+        font-size: 16px;
+        font-weight: 700;
+         line-height: 30px; 
+         }
+     .button1{
+     font-family: roboto;
+        font-size: 16px;
+        font-weight: 500;
+         line-height: 26px;     
+     }
+.link1:hover,
+.link2:hover,
+.link3:hover,
+.link6:hover,
+.link8:hover
+{
+  color:rgb(72, 14, 233);
+  
+}
+.link1:focus,
+.link2:focus,
+.link3:focus,
+.link6:focus,
+.link8:focus
+{
+    color:rgb(72, 14, 233);
+}
+.link1,
+.link2,
+.link3,
+.link6,
+.link8{
+ text-decoration: none;
+}
+.link1{
+    font-family: raleway;
+    font-weight: 700;
+    font: size 26px;
+    line-height: 31px;
+    Line height: 100%
+
+}
+ul{
+    list-style-type: none;
+}
+.head22,
+.head11{
+visibility: hidden;
+}
+
+button{
+cursor: pointer;
+}
