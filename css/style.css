@@ -20,6 +20,9 @@ body{
             border: 0px;
     font-family: inherit;
     cursor: pointer;
+    color:var(--brand-color-czcionka3);
+    background-color: var(--brand-color-czcionka2);
+    
          }
 
      .button1{
